@@ -28,6 +28,7 @@ Time Spent: Approximately **5** hours spent
 
 ### Notes
 Describe any challenges encountered while building the app.
+-Getting the app to display the information that was obtained from the API
 
 ### Open-source libraries used
 
